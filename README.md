@@ -11,15 +11,12 @@ I develop `Websites`, `Desktop applications`, `API services`, `Payment registers
 # 🛠 Skills
 ⦿ **HTML**  
 ⦿ **Pawn**  
-⦿ **C#**  
 ⦿ **Node.JS**  
-⦿ **Vue.JS / React**  
+⦿ **Vue.JS **  
 ⦿ **Xenforo**  
 ⦿ **PHP**  
 ⦿ **JavaScript**  
 ⦿ **CSS / LESS / SASS**  
-⦿ **LUA**  
-⦿ **Java** 
 ## 🔗 Links
 **Portfolio**: [dev-mosaic.ru](https://dev-mosaic.ru)  
 **VK**: [@strlen](https://vk.com/strlen)  
