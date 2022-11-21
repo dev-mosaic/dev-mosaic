@@ -16,9 +16,10 @@ I develop `Websites`, `Desktop applications`, `API services`, `Payment registers
 ⦿ **Xenforo**  
 ⦿ **PHP**  
 ⦿ **JavaScript**  
+⦿ **C#**  
 ⦿ **CSS / LESS / SASS**  
 ## 🔗 Links
 **Portfolio**: [dev-mosaic.ru](https://dev-mosaic.ru)  
 **VK**: [@strlen](https://vk.com/strlen)  
 
-**Discord**: `dev.Mosaic#6004`
+**Discord**: `dev.Mosaic#7777`
