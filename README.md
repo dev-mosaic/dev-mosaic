@@ -22,4 +22,4 @@ I develop `Websites`, `Desktop applications`, `API services`, `Payment registers
 **Portfolio**: [dev-mosaic.ru](https://dev-mosaic.ru)  
 **VK**: [@strlen](https://vk.com/strlen)  
 
-**Discord**: `dev.Mosaic#7777`
+**Discord**: `Mosaic#7777`
