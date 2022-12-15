@@ -12,7 +12,7 @@ I develop `Websites`, `Desktop applications`, `API services`, `Payment registers
 ⦿ **HTML**  
 ⦿ **Pawn**  
 ⦿ **Node.JS**  
-⦿ **Vue.JS **  
+⦿ **Vue.JS / React**  
 ⦿ **Xenforo**  
 ⦿ **PHP**  
 ⦿ **JavaScript**  
