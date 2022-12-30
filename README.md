@@ -15,6 +15,7 @@ I develop `Websites`, `Desktop applications`, `API services`, `Payment registers
 ⦿ **Vue.JS / React**  
 ⦿ **Xenforo**  
 ⦿ **PHP**  
+⦿ **Rust(latest)**
 ⦿ **JavaScript**  
 ⦿ **C#**  
 ⦿ **CSS / LESS / SASS**  
